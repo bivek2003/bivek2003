@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Bivek+Sharma+Panthi;Full+Stack+Developer;Building+Reliable+Systems;Research+%2B+Engineering)](https://git.io/typing-svg)
 
-### 🔬 Transforming Scientific Challenges into Elegant Software Solutions
+### Transforming Scientific Challenges into Elegant Software Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bivek-panthi-9b0089262/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivek2003)
@@ -13,19 +13,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full Stack Developer at the intersection of **biomedical research** and **modern software engineering**, building systems that scientists trust with their data and discoveries. My code powers cheminformatics platforms, streamlines research workflows, and turns raw data into actionable insights.
 
-- 🔭 Currently: **Full Stack Developer** at UNM Health Sciences – IM Translational Informatics
-- 🎓 Pursuing: **B.S. Computer Science** (Minor in Mathematics) at University of New Mexico
-- 🌏 Journey: Nepal → New Mexico, USA
-- 💡 Philosophy: Patience in problem-solving, precision in execution, and deep respect for the science behind every line of code
-- 📊 Impact: Supporting **20+ researchers** with **99.8% system uptime** and **60% faster deployments**
+- Currently: **Full Stack Developer** at UNM Health Sciences – IM Translational Informatics
+- Pursuing: **B.S. Computer Science** (Minor in Mathematics) at University of New Mexico
+- Journey: Nepal → New Mexico, USA
+- Philosophy: Patience in problem-solving, precision in execution, and deep respect for the science behind every line of code
+- Impact: Supporting **20+ researchers** with **99.8% system uptime** and **60% faster deployments**
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Full Stack Developer** | UNM Health Sciences – IM Translational Informatics
 **Jan 2025 – Present**
@@ -42,7 +42,7 @@ I'm a Full Stack Developer at the intersection of **biomedical research** and **
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -70,43 +70,43 @@ I'm a Full Stack Developer at the intersection of **biomedical research** and **
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧪 **SmartFilter Web App** (2025)
+### **SmartFilter Web App** (2025)
 **React • Flask • RDKit • PostgreSQL • Redis**
 
 A secure, scalable web interface for applying SMARTS chemical filters to batch scientific data. Built for researchers who need data integrity without writing code.
-- ⚡ **10x performance improvement** through intelligent caching
-- 🔒 Enterprise-grade security and data validation
-- 📊 Batch processing for large-scale datasets
+- **10x performance improvement** through intelligent caching
+- Enterprise-grade security and data validation
+- Batch processing for large-scale datasets
 
-### 🧬 **Depict — Molecular Visualization Platform** (2024)
+### **Depict — Molecular Visualization Platform** (2024)
 **Django • AWS • REST API • 2D/3D Rendering**
 
 Interactive platform for visualizing chemical structures across 2D and 3D representations. Used by multiple research teams.
-- 🎨 Interactive data exploration and rendering
-- ⏱️ **70% reduction** in visualization workflow time
-- 🔗 RESTful API for programmatic access
+- Interactive data exploration and rendering
+- **70% reduction** in visualization workflow time
+- RESTful API for programmatic access
 
-### 🎭 **DeepFake Detection System** (2025)
+### **DeepFake Detection System** (2025)
 **PyTorch • Flask • Computer Vision • ML Pipeline**
 
 Deep learning pipeline for detecting manipulated video content with automated deployment workflow.
-- 🤖 **87% detection accuracy** on validation datasets
-- 🔄 Automated CI/CD pipeline for model updates
-- 🌐 REST API for scalable inference
+- **87% detection accuracy** on validation datasets
+- Automated CI/CD pipeline for model updates
+- REST API for scalable inference
 
 ---
 
-## 📊 GitHub Activity & Statistics
+## GitHub Activity & Statistics
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bivek2003&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bivek2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bivek2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bivek2003&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bivek2003&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivek2003&theme=react-dark&hide_border=true&area=true)](https://github.com/bivek2003)
 
@@ -116,20 +116,20 @@ Deep learning pipeline for detecting manipulated video content with automated de
 
 ---
 
-## 🎓 Education & Recognition
+## Education & Recognition
 
 **University of New Mexico** | Albuquerque, NM  
 B.S. Computer Science, Minor in Mathematics | GPA: 3.6/4.33  
 Expected Graduation: December 2026
 
 **Honors & Awards**
-- 🏆 Engineering Success Scholarship (2024)
-- 🎓 Amigo Scholarship (2023–2027)
-- 🔬 NIH CFDE Summer Internship (2024) – Research IT & Cloud Data Workflows
+- Engineering Success Scholarship (2024)
+- Amigo Scholarship (2023–2027)
+- NIH CFDE Summer Internship (2024) – Research IT & Cloud Data Workflows
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in challenging problems at the intersection of software engineering and scientific research. Whether you're building research infrastructure, data platforms, or need reliable systems that scientists can trust — let's talk.
 
