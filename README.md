@@ -104,9 +104,10 @@ Deep learning pipeline for detecting manipulated video content with automated de
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bivek2003&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bivek2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bivek2003&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<a href="https://github.com/bivek2003">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bivek2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bivek2003&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+</a>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivek2003&theme=react-dark&hide_border=true&area=true)](https://github.com/bivek2003)
 
